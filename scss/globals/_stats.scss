@@ -1,0 +1,18 @@
+.stats{
+    max-width: 960px;
+    margin-inline: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    text-transform: uppercase;
+
+    span{
+        font-size: 160px;
+    }
+
+    h4{
+        font-size: 24px;
+        font-weight: 300;
+    }
+}
